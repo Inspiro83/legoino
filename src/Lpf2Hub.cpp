@@ -10,6 +10,7 @@
 
 #include "Lpf2Hub.h"
 
+#warning "USING MY FORKED LEGOINO WITH DUPLO SUPPORT"
 /**
  * Callback if a scan has ended with the results of found devices
  * only needed to enforce the non blocking scan start
